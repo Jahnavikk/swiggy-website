@@ -1,0 +1,178 @@
+
+          
+          .one{
+            height:550px;
+            float:left;
+            margin:0%;
+            padding:0;
+            width:800px;
+            
+}
+          .sir{
+            padding: 50px;
+            margin-top : 10px;
+            margin-bottom:30px;
+            margin-left:50px;
+
+          }
+          .two{
+            float:right;
+            width:660px;
+            height:550px;
+            
+            background-size: cover;
+            background-position: 100%;
+            position: absolute;
+          }
+          .img1{
+            width:10px;
+            height:10px;
+          }
+          .three{
+            width:1460px;
+
+          }
+          .four{
+            float:left;
+          }
+          .five{
+            width:500px;
+            height:58px;
+            font-weight: 500;
+            float:left;
+            padding-left: 16px;
+            font-size: 18px;
+            font-weight:500;
+          }
+          .six{
+            width:120px;
+            height:62.5px;
+            background-color:#fc8019;
+            text-align: center;
+            border:none;
+            color:white;
+            margin-left:0px;
+            font-size: 16px;
+            font-weight:700;
+          }
+          .seven{
+            font-weight: 400;
+            font-size: 15px;
+            color:#a9abb2;
+            margin:30px 0 10px;
+            letter-spacing:-.2px;
+            text-transform: uppercase;
+          }
+          .eight{
+            font-weight: 600;
+            font-size: 16px;
+            margin-right: 8px;
+            color: #686b78;
+            line-height: 1.5;
+            letter-spacing: -.3px;
+            text-decoration: none;
+          }
+          .nine{
+            font-weight: 600;
+            font-size: 16px;
+            margin-right: 8px;
+            color:#93959f;
+            line-height: 1.5;
+            letter-spacing: -.3px;
+            text-decoration: none;
+
+          }
+        .ten{
+          list-style: none;
+          width:570px;
+          margin:0;
+          padding:0;
+          
+        }
+         .j{
+          text-decoration: none;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    border: none;
+    padding: 0 2rem;
+    color: #000;
+    letter-spacing: 0;
+    font-size: 16px;
+    font-weight: 600;
+    height: 40px;
+    line-height: 40px;
+    width: auto;
+    background-color: #fff;
+    margin-left:200px;
+    
+  
+   
+         } 
+         .kk{
+          text-decoration: none;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    border: none;
+    line-height: 50px;
+    font-size: 14px;
+    height: 50px;
+    padding: 0 2rem;
+    color: #000;
+    letter-spacing: 0;
+    color: #fff;
+    background-color: #000;
+    box-shadow: 0 1px 3px 0 rgba(0,0,0,.12);
+    font-size: 16px;
+    font-weight: 600;
+    height: 40px;
+    line-height: 40px;
+    width: auto;
+         }
+         .jk{
+          height: 50px;
+          width: 150px;
+          margin-right: 20px;
+    
+         }
+         .supu{
+          font-size: 40px;
+    font-weight: 600;
+    width: 300px;
+    line-height: 1;
+    letter-spacing: -.45px;
+    margin-left:80px;
+         }
+         .divya{
+          font-size: 20px;
+    width: 400px;
+    font-weight: 300;
+    padding-top: 20px;
+    padding-bottom: 60px;
+    color: #7e808c;
+    line-height: 1.2;
+    margin-left:80px;
+         }
+         img{
+          border-style: none;
+         }
+         .priya{
+          margin-left: 100px;
+         }
+         .container{
+          height:auto;
+         }
+         
+         .d{
+            text-decoration: none;
+            color:#000;
+         }
+         .s{
+          border:none;
+          text-decoration: none;
+          color:white;
+         }
+         h2{
+          color:#686b78;
+         }
